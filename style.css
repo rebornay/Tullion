@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
+    text-decoration: none;
 }
 body {
     background-color: #F4F6F3;
@@ -415,5 +416,3 @@ body footer .p p {
 body footer .p p a {
     color: grey;
 }
-
-
