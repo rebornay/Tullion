@@ -18,8 +18,10 @@ body header .firstline{
 }
 
 body header .firstline .logo {
-    margin-right: 270px;
-    margin-left: 30px;
+    /* margin-right: 270px;
+    margin-left: 30px; */
+    margin-inline-start: 16.875rem;
+    margin-inline-end: 1.875rem;
 }
 
 body header .firstline .logo p {
