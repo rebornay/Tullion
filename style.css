@@ -50,7 +50,8 @@ body header .firstline .links a:hover {
 }
 
 body header .firstline .btn {
-    margin-left: 180px;
+    /* margin-left: 180px; */
+    margin-inline-start: 11.25rem;
 }
 
 body header .firstline .btn button {
