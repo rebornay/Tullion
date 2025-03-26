@@ -365,7 +365,8 @@ body footer .top-footer img {
  
 
  body footer .bottom-footer .link1 {
-    top: 200px;
+    /* top: 200px; */
+    top: 12.5rem;
     position: absolute;
  }
  body footer .bottom-footer .link1 i {
