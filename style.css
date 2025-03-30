@@ -407,7 +407,9 @@ body footer .bottom-footer .link2 ul li, a  {
     list-style: none;
     text-decoration: none;
     padding-right: 30px;
-    padding-bottom: 8px;
+    /* padding-bottom: 8px; */
+    padding-block-end: .5rem;
+
 }
 
 body footer .p p {
