@@ -39,7 +39,7 @@ body header .firstline .links a .a1{
     text-decoration: none;
     text-align: center;
     color: black;
-    font-size: 15px;
+    font-size: 0.9375rem;
     font-weight: 500;
     transition: all .3s ease-in-out;
 }
