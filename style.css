@@ -59,7 +59,7 @@ body header .firstline .btn button {
     padding: 8px;
     font-size: 13px;
     margin-top: -30px;
-    font-weight: 400px;
+    /* font-weight: 400px; */
     background-color: #ffffff;
     color: #064938;
     outline: none;
