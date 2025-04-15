@@ -134,7 +134,7 @@ body .container .text-box #box {
 }
 
 body .container .text-box p {
-    font-size: 14px;
+    font-size: .875rem;
     font-weight: 400;
     padding: 20px 0;
 }
