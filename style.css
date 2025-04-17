@@ -197,8 +197,8 @@ body section .box1 .b1, body section .box2 .b2  {
 }
 
 body section .box1 .b1 img, body section .box2 .b2 img {
-    height: 200px;
-    width: 200px;
+    height: 12.5rem;
+    width: 12.5rem;
     padding-bottom: 10px;
 }
 
