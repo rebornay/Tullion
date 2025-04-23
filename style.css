@@ -141,7 +141,7 @@ body .container .text-box p {
 
 body .container .text-box button {
     /* margin-top: 10px; */
-    font-size: 10px;
+    font-size: 0.625rem;
     padding: 10px;
     border-radius: 3px;
     outline: none;
